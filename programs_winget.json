@@ -1,0 +1,71 @@
+{
+        "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+        "CreationDate" : "2022-09-29T22:15:08.210-00:00",
+        "Sources" :
+        [
+                {
+                        "Packages" :
+                        [
+                                {
+                                        "PackageIdentifier" : "7zip.7zip"
+                                },
+                                {
+                                        "PackageIdentifier" : "ShareX.ShareX"
+                                },
+                                {
+                                        "PackageIdentifier" : "Git.Git"
+                                },
+                                {
+                                        "PackageIdentifier" : "Google.Chrome"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.Edge"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+                                },
+                                {
+                                        "PackageIdentifier" : "Notepad++.Notepad++"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.OneDrive"
+                                },
+                                {
+                                        "PackageIdentifier" : "Postman.Postman"
+                                },
+                                {
+                                        "PackageIdentifier" : "UniversityOfWaikato.Weka"
+                                },
+                                {
+                                        "PackageIdentifier" : "Notion.Notion"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
+                                },
+                                {
+                                        "PackageIdentifier" : "Alacritty.Alacritty"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VisualStudioCode"
+                                },
+                                {
+                                        "PackageIdentifier" : "Transmission.Transmission"
+                                },
+                                {
+                                        "PackageIdentifier" : "Microsoft.VC++2015Redist-x86"
+                                }
+                        ],
+                        "SourceDetails" :
+                        {
+                                "Argument" : "https://cdn.winget.microsoft.com/cache",
+                                "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                                "Name" : "winget",
+                                "Type" : "Microsoft.PreIndexed.Package"
+                        }
+                }
+        ],
+        "WinGetVersion" : "1.3.2091"
+}
